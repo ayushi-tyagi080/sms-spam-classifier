@@ -1,5 +1,4 @@
 # sms-spam-classifier
-Got it — here’s your `README.md` without the **Table of Contents** items **1** and **2**.
 
 ````markdown
 # SMS Spam Classifier
