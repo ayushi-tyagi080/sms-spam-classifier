@@ -1,6 +1,4 @@
-# sms-spam-classifier
 
-````markdown
 # SMS Spam Classifier
 
 A comprehensive project aimed at building an SMS spam detection system using machine learning. Key steps include data cleaning, exploratory analysis, preprocessing, model building, evaluation, improvement, a user-facing website, and deployment of the best-performing model (Multinomial Naive Bayes).
@@ -15,11 +13,8 @@ Make sure you have:
 
   ```bash
   pip install -r requirements.txt
-````
 
 **Typical packages include:** `pandas`, `numpy`, `scikit-learn`, `nltk` (or `spaCy`), `flask`, `joblib` (or `pickle`), and visualization tools like `matplotlib`, `seaborn`, or `plotly`.
-
----
 
 ## Getting Started
 
@@ -88,7 +83,6 @@ Consider:
 * Load them in the Flask application for real-time inference.
 * Host the app locally or deploy to platforms like Heroku, AWS, or Render.
 
----
 
 ## Results
 
@@ -102,13 +96,11 @@ Provide your key findings here:
   * F1-Score: *e.g.,* 92%
 
 
----
 
 ## License
 
 This project is licensed under the MIT License — see the [`LICENSE`](LICENSE) file for details.
 
----
 
 
 * **Author**: Ayushi Tyagi
